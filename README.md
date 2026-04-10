@@ -1,2 +1,6 @@
 # Energy-Efficiency-Dashboard
 Power BI dashboard for analyzing industrial energy intensity, process efficiency, and pressure stability metrics
+
+
+
+Layihənin MəqsədiBu hesabat sənaye proseslərində enerji səmərəliliyini izləmək və kritik parametrlər arasındakı əlaqəni analiz etmək üçün hazırlanıb. Əsas Göstəricilər (KPIs)Enerji İntensivliyi: Müxtəlif proseslər üzrə kWh istehlakının analizi. Təzyiq Sabitliyi: Sistemdəki təzyiq dəyişikliklərinin səmərəliliyə təsiri. Trend Analizi: Zamanla dəyişən performans göstəricilərinin izlənilməsi. İstifadə Olunan Texniki HəllərDAX Modelləşdirmə: Mürəkkəb hesablamalar üçün xüsusi ölçülər (Measures) yaradılıb. Scatter Charts: Təzyiq və səmərəlilik arasındakı korrelyasiyanı göstərmək üçün istifadə edilib. Custom Tooltips: İstifadəçi təcrübəsini artırmaq üçün xüsusi məlumat pəncərələri dizayn edilib. Dinamik Filtrlər: Hesabatın müxtəlif tarixlər və kateqoriyalar üzrə filtrasiyası. Vizual StrukturLayihə daxilində aşağıdakı resurslardan və dizayn elementlərindən istifadə olunub:Rəng Palitrası: Brendinqinə uyğun xüsusi vizual mövzular (məsələn, Orchid mövzusu). Layout: Hesabatın strukturu və diaqram düzəlişləri istifadəçi rahatlığı üçün optimallaşdırılıb. 
